@@ -1,0 +1,18 @@
+2020-06-23 21:47:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "FROM[*] AKUN"; SQL statement:
+from AKUN [42000-200]
+2020-06-23 21:47:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "FROM[*] AKUN"; SQL statement:
+from AKUN [42000-200]
+2020-06-23 21:47:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "FROM[*] AKUN"; SQL statement:
+from AKUN [42000-200]
+2020-06-23 21:49:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "FROM[*] AKUN"; SQL statement:
+from AKUN [42000-200]
+2020-06-23 21:49:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * ""PUBLIC""[*].AKUN"; SQL statement:
+SELECT * "PUBLIC".AKUN [42000-200]
+2020-06-23 21:49:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * ""PUBLIC""[*].AKUN"; SQL statement:
+SELECT * "PUBLIC".AKUN [42000-200]
